@@ -2,6 +2,7 @@
   "expo": {
     "name": "FormScribe",
     "slug": "formscribe",
+    "owner": "heaven_bound",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
