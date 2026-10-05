@@ -29,6 +29,18 @@
       "expo-router",
       "expo-sharing",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8d9274d0-4a10-4fb4-983b-c2ce9deb98c9"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8d9274d0-4a10-4fb4-983b-c2ce9deb98c9"
+    }
   }
 }
